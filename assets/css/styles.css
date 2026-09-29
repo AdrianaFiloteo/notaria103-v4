@@ -77,6 +77,9 @@ img { max-width: 100%; }
   .footer-legal-sep { display: inline-flex !important; }
   .footer-copyright { padding: 12px 0 !important; }
   .op-services-grid { grid-template-columns: 1fr !important; }
+  .cat-services-grid { grid-template-columns: 1fr !important; }
+  .nap-cell svg { display: none !important; }
+  .services-mobile-cards img { display: none !important; }
   .services-grid-desktop { display: none !important; }
   .services-mobile-cards { display: grid !important; }
   .faq-2col { grid-template-columns: 1fr !important; }
